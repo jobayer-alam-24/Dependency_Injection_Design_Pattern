@@ -1,0 +1,15 @@
+D:\Dependency_Injection_Design_Pattern\bin\Debug\net9.0\Dependency_Injection_Design_Pattern.exe
+D:\Dependency_Injection_Design_Pattern\bin\Debug\net9.0\Dependency_Injection_Design_Pattern.deps.json
+D:\Dependency_Injection_Design_Pattern\bin\Debug\net9.0\Dependency_Injection_Design_Pattern.runtimeconfig.json
+D:\Dependency_Injection_Design_Pattern\bin\Debug\net9.0\Dependency_Injection_Design_Pattern.dll
+D:\Dependency_Injection_Design_Pattern\bin\Debug\net9.0\Dependency_Injection_Design_Pattern.pdb
+D:\Dependency_Injection_Design_Pattern\obj\Debug\net9.0\Dependency_Injection_Design_Pattern.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dependency_Injection_Design_Pattern\obj\Debug\net9.0\Dependency_Injection_Design_Pattern.AssemblyInfoInputs.cache
+D:\Dependency_Injection_Design_Pattern\obj\Debug\net9.0\Dependency_Injection_Design_Pattern.AssemblyInfo.cs
+D:\Dependency_Injection_Design_Pattern\obj\Debug\net9.0\Dependency_Injection_Design_Pattern.csproj.CoreCompileInputs.cache
+D:\Dependency_Injection_Design_Pattern\obj\Debug\net9.0\Dependency_Injection_Design_Pattern.sourcelink.json
+D:\Dependency_Injection_Design_Pattern\obj\Debug\net9.0\Dependency_Injection_Design_Pattern.dll
+D:\Dependency_Injection_Design_Pattern\obj\Debug\net9.0\refint\Dependency_Injection_Design_Pattern.dll
+D:\Dependency_Injection_Design_Pattern\obj\Debug\net9.0\Dependency_Injection_Design_Pattern.pdb
+D:\Dependency_Injection_Design_Pattern\obj\Debug\net9.0\Dependency_Injection_Design_Pattern.genruntimeconfig.cache
+D:\Dependency_Injection_Design_Pattern\obj\Debug\net9.0\ref\Dependency_Injection_Design_Pattern.dll
